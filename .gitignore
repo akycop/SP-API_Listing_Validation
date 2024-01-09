@@ -1,0 +1,11 @@
+node_modules
+.npm
+.history/
+.DS_Store
+.env
+input
+output
+mock*
+log
+env/
+*credentials.json
