@@ -58,3 +58,4 @@ import { validator } from './jsonSchemaValidator.js';
     console.log(err.stack);
   }
 })();
+
